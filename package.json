@@ -13,8 +13,7 @@
     "lib/"
   ],
   "devDependencies": {
-    "mocha": "^2.5.3",
-    "slate": "git+ssh://git@github.com/GitbookIO/slate-core.git#^0.33.5"
+    "mocha": "^2.5.3"
   },
   "scripts": {
     "clean": "rm -rf ./dist ./lib ./node_modules"
