@@ -4,6 +4,10 @@ This document maintains a list of changes to the `slate-schema-violations` packa
 
 ---
 
+### `0.1.11-0`
+
+https://github.com/GitbookIO/slate/pull/5
+
 ### `0.1.0` — January 26, 2018
 
 :tada:
